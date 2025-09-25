@@ -10,11 +10,14 @@
 This experiment focuses on performing fundamental Matrix Operations using programming. Matrices are used extensively in mathematics, computer science, graphics, and data science. The following operations are covered :-
 ---
 Addition of two matrices
+---
 Multiplication of two matrices
+---
 Matrix input and display
+---
 Transpose of a matrix
 
---
+---
 
 🔢 Q1. Code for Addition of Two Matrices
 ✅ Aim
